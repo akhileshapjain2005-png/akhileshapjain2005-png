@@ -1,18 +1,10 @@
 <div align="center">
 
-<img
-src="./profile-card.svg"
-alt="Akhilesh Jain - Computer Science | AI/ML | Generative AI"
-width="100%"
-style="display:block;width:100%;height:auto;"
->
+![Akhilesh Jain - Computer Science | AI/ML | Generative AI](./profile-card.svg)
 
-<br><br>
+<br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=73D7FF&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI%2FML+Enthusiast;Generative+AI+Explorer;RAG+%26+LLM+Developer;Full-Stack+Developer;Building+Intelligent+Applications"
-alt="Typing Animation"
->
+![Typing Animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=73D7FF&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI%2FML+Enthusiast;Generative+AI+Explorer;RAG+%26+LLM+Developer;Full-Stack+Developer;Building+Intelligent+Applications)
 
 </div>
 
@@ -53,8 +45,7 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 width="55"
 height="55"
 alt="Python">
@@ -67,8 +58,7 @@ alt="Python">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 width="55"
 height="55"
 alt="JavaScript">
@@ -81,8 +71,7 @@ alt="JavaScript">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
 width="55"
 height="55"
 alt="TypeScript">
@@ -105,8 +94,7 @@ alt="TypeScript">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
 width="55"
 height="55"
 alt="PyTorch">
@@ -119,8 +107,7 @@ alt="PyTorch">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
 width="55"
 height="55"
 alt="Scikit-learn">
@@ -133,8 +120,7 @@ alt="Scikit-learn">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.simpleicons.org/openai"
+<img src="https://cdn.simpleicons.org/openai"
 width="55"
 height="55"
 alt="OpenAI">
@@ -147,8 +133,7 @@ alt="OpenAI">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.simpleicons.org/huggingface"
+<img src="https://cdn.simpleicons.org/huggingface"
 width="55"
 height="55"
 alt="Hugging Face">
@@ -161,8 +146,7 @@ alt="Hugging Face">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.simpleicons.org/langchain"
+<img src="https://cdn.simpleicons.org/langchain"
 width="55"
 height="55"
 alt="LangChain">
@@ -185,8 +169,7 @@ alt="LangChain">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 width="55"
 height="55"
 alt="React">
@@ -199,8 +182,7 @@ alt="React">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
 width="55"
 height="55"
 alt="Vite">
@@ -213,8 +195,7 @@ alt="Vite">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
 width="55"
 height="55"
 alt="FastAPI">
@@ -227,8 +208,7 @@ alt="FastAPI">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
 width="55"
 height="55"
 alt="Flask">
@@ -241,8 +221,7 @@ alt="Flask">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
 width="55"
 height="55"
 alt="Node.js">
@@ -265,8 +244,7 @@ alt="Node.js">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
 width="55"
 height="55"
 alt="MongoDB">
@@ -279,8 +257,7 @@ alt="MongoDB">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 width="55"
 height="55"
 alt="PostgreSQL">
@@ -293,8 +270,7 @@ alt="PostgreSQL">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.simpleicons.org/chroma"
+<img src="https://cdn.simpleicons.org/chroma"
 width="55"
 height="55"
 alt="ChromaDB">
@@ -317,8 +293,7 @@ alt="ChromaDB">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 width="55"
 height="55"
 alt="Git">
@@ -331,8 +306,7 @@ alt="Git">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 width="55"
 height="55"
 alt="GitHub">
@@ -345,8 +319,7 @@ alt="GitHub">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
 width="55"
 height="55"
 alt="Docker">
@@ -359,8 +332,7 @@ alt="Docker">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
 width="55"
 height="55"
 alt="Linux">
@@ -373,8 +345,7 @@ alt="Linux">
 
 <td align="center" width="140">
 
-<img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
 width="55"
 height="55"
 alt="Hugging Face">
@@ -752,31 +723,25 @@ Data-driven intelligent solutions
 <div align="center">
 
 <a href="mailto:akhileshapjain2005@gmail.com">
-
 <img
 src="https://img.shields.io/badge/Email-0B1322?style=for-the-badge&logo=gmail&logoColor=C8FF3D"
 alt="Email">
-
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/akhilesh-jain-97b3a72a6">
-
 <img
 src="https://img.shields.io/badge/LinkedIn-0B1322?style=for-the-badge&logo=linkedin&logoColor=73D7FF"
 alt="LinkedIn">
-
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/akhileshapjain2005-png">
-
 <img
 src="https://img.shields.io/badge/GitHub-0B1322?style=for-the-badge&logo=github&logoColor=C8FF3D"
 alt="GitHub">
-
 </a>
 
 </div>
