@@ -44,57 +44,101 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 ## 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-width="55"
-height="55"
-alt="Python"
-title="Python">&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-width="55"
-height="55"
-alt="JavaScript"
-title="JavaScript">
-</p>
+<td align="center">
 
-**Python • JavaScript**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python">
+
+<br>
+
+<b>Python</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript">
+
+<br>
+
+<b>JavaScript</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript">
+
+<br>
+
+<b>TypeScript</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🤖 AI / Machine Learning
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-width="55"
-height="55"
-alt="PyTorch"
-title="PyTorch">&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
-width="55"
-height="55"
-alt="Scikit-learn"
-title="Scikit-learn">&nbsp;&nbsp;&nbsp;
+<td align="center">
 
-<img src="https://cdn.simpleicons.org/openai"
-width="55"
-height="55"
-alt="OpenAI"
-title="OpenAI">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch">
 
-<img src="https://cdn.simpleicons.org/huggingface"
-width="55"
-height="55"
-alt="Hugging Face"
-title="Hugging Face">&nbsp;&nbsp;&nbsp;
+<br>
 
-<img src="https://cdn.simpleicons.org/langchain"
-width="55"
-height="55"
-alt="LangChain"
-title="LangChain">
-</p>
+<b>PyTorch</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn">
+
+<br>
+
+<b>Scikit-learn</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/openai" width="55" height="55" alt="OpenAI">
+
+<br>
+
+<b>Generative AI</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/huggingface" width="55" height="55" alt="Hugging Face">
+
+<br>
+
+<b>LLMs</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/langchain" width="55" height="55" alt="LangChain">
+
+<br>
+
+<b>RAG</b>
+
+</td>
+
+</tr>
+</table>
 
 **PyTorch • Scikit-learn • Generative AI • LLMs • RAG • LangChain**
 
@@ -102,51 +146,103 @@ title="LangChain">
 
 ## 🌐 Web & Backend
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-width="55"
-height="55"
-alt="React"
-title="React">&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
-width="55"
-height="55"
-alt="Vite"
-title="Vite">&nbsp;&nbsp;&nbsp;
+<td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-width="55"
-height="55"
-alt="FastAPI"
-title="FastAPI">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-width="55"
-height="55"
-alt="Flask"
-title="Flask">
-</p>
+<br>
 
-**React • Vite • FastAPI • Flask • REST APIs**
+<b>React</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55" height="55" alt="Vite">
+
+<br>
+
+<b>Vite</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI">
+
+<br>
+
+<b>FastAPI</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask">
+
+<br>
+
+<b>Flask</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js">
+
+<br>
+
+<b>Node.js</b>
+
+</td>
+
+</tr>
+</table>
+
+**React • Vite • FastAPI • Flask • Node.js • REST APIs**
 
 ---
 
 ## 🗄️ Databases & AI Storage
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-width="55"
-height="55"
-alt="MongoDB"
-title="MongoDB">&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<img src="https://cdn.simpleicons.org/postgresql"
-width="55"
-height="55"
-alt="PostgreSQL"
-title="PostgreSQL">
-</p>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB">
+
+<br>
+
+<b>MongoDB</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/postgresql" width="55" height="55" alt="PostgreSQL">
+
+<br>
+
+<b>PostgreSQL</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/chroma" width="55" height="55" alt="ChromaDB">
+
+<br>
+
+<b>ChromaDB</b>
+
+</td>
+
+</tr>
+</table>
 
 **MongoDB • PostgreSQL • ChromaDB • Vector Databases • Semantic Search**
 
@@ -154,37 +250,61 @@ title="PostgreSQL">
 
 ## ⚙️ Tools & DevOps
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-width="55"
-height="55"
-alt="Git"
-title="Git">&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-width="55"
-height="55"
-alt="GitHub"
-title="GitHub">&nbsp;&nbsp;&nbsp;
+<td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-width="55"
-height="55"
-alt="Docker"
-title="Docker">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-width="55"
-height="55"
-alt="Linux"
-title="Linux">&nbsp;&nbsp;&nbsp;
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
-width="55"
-height="55"
-alt="Hugging Face"
-title="Hugging Face">
-</p>
+<b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub">
+
+<br>
+
+<b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker">
+
+<br>
+
+<b>Docker</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux">
+
+<br>
+
+<b>Linux</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="55" height="55" alt="Hugging Face">
+
+<br>
+
+<b>Hugging Face</b>
+
+</td>
+
+</tr>
+</table>
 
 **Git • GitHub • Docker • Linux • Hugging Face**
 
@@ -547,6 +667,22 @@ Data-driven intelligent solutions
 
 <div align="center">
 
+<a href="mailto:akhileshapjain2005@gmail.com">
+
+<img
+src="https://img.shields.io/badge/Email-0B1322?style=for-the-badge&logo=gmail&logoColor=C8FF3D"
+alt="Email">
+
+</a>
+
+<a href="https://www.linkedin.com/in/akhilesh-jain-97b3a72a6">
+
+<img
+src="https://img.shields.io/badge/LinkedIn-0B1322?style=for-the-badge&logo=linkedin&logoColor=73D7FF"
+alt="LinkedIn">
+
+</a>
+
 <a href="https://github.com/akhileshapjain2005-png">
 
 <img
@@ -556,6 +692,18 @@ alt="GitHub">
 </a>
 
 </div>
+
+<br>
+
+<div align="center">
+
+📧 **akhileshapjain2005@gmail.com**
+
+💼 **[LinkedIn](https://www.linkedin.com/in/akhilesh-jain-97b3a72a6)**
+
+</div>
+
+---
 
 <br>
 
