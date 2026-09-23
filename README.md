@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=akhileshapjain2005-png&label=PROFILE%20VIEWS&color=79E34B&style=flat-square" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=akhileshapjain2005-png&label=PROFILE+VIEWS&color=79E34B&style=flat-square" alt="Profile Views">
 
 </div>
 
@@ -45,177 +45,148 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-     width="55"
-     height="55"
-     alt="Python"
-     title="Python">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="Python"
+title="Python">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-     width="55"
-     height="55"
-     alt="JavaScript"
-     title="JavaScript">
-
+width="55"
+height="55"
+alt="JavaScript"
+title="JavaScript">
 </p>
+
+**Python • JavaScript**
 
 ---
 
 ## 🤖 AI / Machine Learning
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-     width="55"
-     height="55"
-     alt="Python"
-     title="Python">
-
-&nbsp;&nbsp;&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-     width="55"
-     height="55"
-     alt="PyTorch"
-     title="PyTorch">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="PyTorch"
+title="PyTorch">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
-     width="55"
-     height="55"
-     alt="Scikit-learn"
-     title="Scikit-learn">
+width="55"
+height="55"
+alt="Scikit-learn"
+title="Scikit-learn">&nbsp;&nbsp;&nbsp;
 
+<img src="https://cdn.simpleicons.org/openai"
+width="55"
+height="55"
+alt="OpenAI"
+title="OpenAI">&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/huggingface"
+width="55"
+height="55"
+alt="Hugging Face"
+title="Hugging Face">&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/langchain"
+width="55"
+height="55"
+alt="LangChain"
+title="LangChain">
 </p>
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-111827?style=for-the-badge&labelColor=111827&color=1B2942"
-     alt="Generative AI">
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&labelColor=111827&color=1B2942"
-     alt="Large Language Models">
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&labelColor=111827&color=1B2942"
-     alt="RAG">
-
-</p>
+**PyTorch • Scikit-learn • Generative AI • LLMs • RAG • LangChain**
 
 ---
 
 ## 🌐 Web & Backend
 
 <p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-     width="55"
-     height="55"
-     alt="React"
-     title="React">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="React"
+title="React">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
-     width="55"
-     height="55"
-     alt="Vite"
-     title="Vite">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="Vite"
+title="Vite">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-     width="55"
-     height="55"
-     alt="FastAPI"
-     title="FastAPI">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="FastAPI"
+title="FastAPI">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-     width="55"
-     height="55"
-     alt="Flask"
-     title="Flask">
-
+width="55"
+height="55"
+alt="Flask"
+title="Flask">
 </p>
+
+**React • Vite • FastAPI • Flask • REST APIs**
 
 ---
 
 ## 🗄️ Databases & AI Storage
 
 <p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-     width="55"
-     height="55"
-     alt="MongoDB"
-     title="MongoDB">
+width="55"
+height="55"
+alt="MongoDB"
+title="MongoDB">&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&labelColor=111827&color=1B2942"
-     alt="ChromaDB">
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/VECTOR_DATABASE-111827?style=for-the-badge&labelColor=111827&color=1B2942"
-     alt="Vector Database">
-
+<img src="https://cdn.simpleicons.org/postgresql"
+width="55"
+height="55"
+alt="PostgreSQL"
+title="PostgreSQL">
 </p>
+
+**MongoDB • PostgreSQL • ChromaDB • Vector Databases • Semantic Search**
 
 ---
 
 ## ⚙️ Tools & DevOps
 
 <p align="left">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-     width="55"
-     height="55"
-     alt="Git"
-     title="Git">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="Git"
+title="Git">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-     width="55"
-     height="55"
-     alt="GitHub"
-     title="GitHub">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="GitHub"
+title="GitHub">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-     width="55"
-     height="55"
-     alt="Docker"
-     title="Docker">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="Docker"
+title="Docker">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-     width="55"
-     height="55"
-     alt="Linux"
-     title="Linux">
-
-&nbsp;&nbsp;&nbsp;
+width="55"
+height="55"
+alt="Linux"
+title="Linux">&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
-     width="55"
-     height="55"
-     alt="Hugging Face"
-     title="Hugging Face">
-
+width="55"
+height="55"
+alt="Hugging Face"
+title="Hugging Face">
 </p>
+
+**Git • GitHub • Docker • Linux • Hugging Face**
 
 ---
 
@@ -359,9 +330,9 @@ A personal portfolio website showcasing development projects, technical interest
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=akhileshapjain2005-png&show_icons=true&hide_border=true&bg_color=0B1322&title_color=C8FF3D&text_color=D9E5F2&icon_color=73D7FF&include_all_commits=true&count_private=true"
-  alt="Akhilesh GitHub Statistics">
+src="https://github-readme-stats.vercel.app/api?username=akhileshapjain2005-png&show_icons=true&hide_border=true&bg_color=0B1322&title_color=C8FF3D&text_color=D9E5F2&icon_color=73D7FF&include_all_commits=true&count_private=true"
+height="180"
+alt="Akhilesh GitHub Statistics">
 
 </div>
 
@@ -372,9 +343,9 @@ A personal portfolio website showcasing development projects, technical interest
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshapjain2005-png&layout=compact&hide_border=true&bg_color=0B1322&title_color=C8FF3D&text_color=D9E5F2&langs_count=8"
-  alt="Akhilesh Most Used Languages">
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshapjain2005-png&layout=compact&hide_border=true&bg_color=0B1322&title_color=C8FF3D&text_color=D9E5F2&langs_count=8"
+height="180"
+alt="Akhilesh Most Used Languages">
 
 </div>
 
@@ -385,8 +356,8 @@ A personal portfolio website showcasing development projects, technical interest
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=akhileshapjain2005-png&hide_border=true&background=0B1322&ring=C8FF3D&fire=FFB347&currStreakLabel=73D7FF&sideLabels=D9E5F2&dates=8EA3BD&currStreakNum=C8FF3D&sideNums=73D7FF"
-  alt="Akhilesh GitHub Streak">
+src="https://streak-stats.demolab.com?user=akhileshapjain2005-png&hide_border=true&background=0B1322&ring=C8FF3D&fire=FFB347&currStreakLabel=73D7FF&sideLabels=D9E5F2&dates=8EA3BD&currStreakNum=C8FF3D&sideNums=73D7FF"
+alt="Akhilesh GitHub Streak">
 
 </div>
 
@@ -397,8 +368,8 @@ A personal portfolio website showcasing development projects, technical interest
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=akhileshapjain2005-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
-  alt="Akhilesh GitHub Trophies">
+src="https://github-profile-trophy.vercel.app/?username=akhileshapjain2005-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+alt="Akhilesh GitHub Trophies">
 
 </div>
 
@@ -409,8 +380,8 @@ A personal portfolio website showcasing development projects, technical interest
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshapjain2005-png&bg_color=0B1322&color=73D7FF&line=C8FF3D&point=FFB347&area=true&hide_border=true"
-  alt="Akhilesh Contribution Graph">
+src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshapjain2005-png&bg_color=0B1322&color=73D7FF&line=C8FF3D&point=FFB347&area=true&hide_border=true"
+alt="Akhilesh Contribution Graph">
 
 </div>
 
@@ -421,6 +392,7 @@ A personal portfolio website showcasing development projects, technical interest
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="250">
@@ -500,6 +472,7 @@ Data-driven solutions
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -575,7 +548,11 @@ Data-driven intelligent solutions
 <div align="center">
 
 <a href="https://github.com/akhileshapjain2005-png">
-<img src="https://img.shields.io/badge/GitHub-0B1322?style=for-the-badge&logo=github&logoColor=C8FF3D" alt="GitHub">
+
+<img
+src="https://img.shields.io/badge/GitHub-0B1322?style=for-the-badge&logo=github&logoColor=C8FF3D"
+alt="GitHub">
+
 </a>
 
 </div>
