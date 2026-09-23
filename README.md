@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./profile-card.svg" width="100%" alt="Akhilesh Jain - AI/ML, Generative AI and Full-Stack Developer"/>
+<img src="./profile-card.svg" alt="Akhilesh Jain - Computer Science | AI/ML | Generative AI" width="100%">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=73E0D1&center=true&vCenter=true&width=760&lines=AI%2FML+Enthusiast;Generative+AI+Explorer;RAG+%26+LLM+Developer;Full-Stack+Developer;Building+Intelligent+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=73D7FF&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI%2FML+Enthusiast;Generative+AI+Explorer;RAG+%26+LLM+Developer;Full-Stack+Developer;Building+Intelligent+Applications" alt="Typing Animation">
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=akhileshapjain2005-png&label=PROFILE+VIEWS&color=6F5AA8&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=akhileshapjain2005-png&label=PROFILE%20VIEWS&color=79E34B&style=flat-square" alt="Profile Views">
 
 </div>
 
@@ -16,67 +16,205 @@
 
 # 👋 Hi, I'm Akhilesh Jain
 
-### 🚀 AI/ML Enthusiast | Generative AI Explorer | Full-Stack Developer
+### 💻 Computer Science Student | AI/ML Enthusiast | Generative AI Explorer | Full-Stack Developer
 
 I'm passionate about building **intelligent, practical, and scalable software applications** using Artificial Intelligence, Machine Learning, Generative AI, and modern web technologies.
 
-My interests include **Large Language Models, Retrieval-Augmented Generation (RAG), Vector Databases, AI-powered applications, machine learning, backend development, and full-stack systems**.
+My interests include **Large Language Models, Retrieval-Augmented Generation (RAG), Vector Databases, AI-powered applications, Machine Learning, Backend Development, and Full-Stack Systems**.
 
-I enjoy turning ideas into working products by combining **AI + software engineering + real-world problem solving**.
+I enjoy turning ideas into working products by combining **AI + Software Engineering + Real-World Problem Solving**.
 
 ---
 
 # 🧠 About Me
 
-```text
-💡 Interested in Artificial Intelligence & Machine Learning
-🤖 Exploring Generative AI and Large Language Models
-🔎 Building Retrieval-Augmented Generation applications
-🗄️ Working with Vector Databases and Semantic Search
-🌐 Developing Full-Stack Applications
-⚡ Exploring AI-powered automation
-🐳 Learning containerization and deployment
-🚀 Turning ideas into practical software
-```
+- 💻 Computer Science student
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🧠 Learning Generative AI and Large Language Models
+- 🔎 Building Retrieval-Augmented Generation applications
+- 🗄️ Exploring Vector Databases and Semantic Search
+- 🌐 Developing Full-Stack Applications
+- ⚡ Interested in AI-powered automation
+- 🐳 Learning containerization and deployment
+- 🚀 Turning ideas into practical software
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript" />
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     width="55"
+     height="55"
+     alt="Python"
+     title="Python">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+     width="55"
+     height="55"
+     alt="JavaScript"
+     title="JavaScript">
+
 </p>
 
-### 🤖 AI / Machine Learning
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-<img src="https://img.shields.io/badge/Generative_AI-17113A?style=for-the-badge&logoColor=FFB86B"/>
-<img src="https://img.shields.io/badge/LLMs-17113A?style=for-the-badge&logoColor=73E0D1"/>
-<img src="https://img.shields.io/badge/RAG-17113A?style=for-the-badge&logoColor=FF7A59"/>
+## 🤖 AI / Machine Learning
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     width="55"
+     height="55"
+     alt="Python"
+     title="Python">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+     width="55"
+     height="55"
+     alt="PyTorch"
+     title="PyTorch">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+     width="55"
+     height="55"
+     alt="Scikit-learn"
+     title="Scikit-learn">
+
 </p>
 
-### 🌐 Web & Backend
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,flask" />
+<img src="https://img.shields.io/badge/GENERATIVE_AI-111827?style=for-the-badge&labelColor=111827&color=1B2942"
+     alt="Generative AI">
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&labelColor=111827&color=1B2942"
+     alt="Large Language Models">
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&labelColor=111827&color=1B2942"
+     alt="RAG">
+
 </p>
 
-### 🗄️ Databases & AI Storage
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://img.shields.io/badge/ChromaDB-17113A?style=for-the-badge&logoColor=73E0D1"/>
-<img src="https://img.shields.io/badge/Vector_Search-17113A?style=for-the-badge&logoColor=FFB86B"/>
+## 🌐 Web & Backend
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+     width="55"
+     height="55"
+     alt="React"
+     title="React">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
+     width="55"
+     height="55"
+     alt="Vite"
+     title="Vite">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+     width="55"
+     height="55"
+     alt="FastAPI"
+     title="FastAPI">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+     width="55"
+     height="55"
+     alt="Flask"
+     title="Flask">
+
 </p>
 
-### ⚙️ Tools & DevOps
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-<img src="https://img.shields.io/badge/Hugging_Face-17113A?style=for-the-badge&logo=huggingface&logoColor=FFB86B"/>
+## 🗄️ Databases & AI Storage
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+     width="55"
+     height="55"
+     alt="MongoDB"
+     title="MongoDB">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge&labelColor=111827&color=1B2942"
+     alt="ChromaDB">
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/VECTOR_DATABASE-111827?style=for-the-badge&labelColor=111827&color=1B2942"
+     alt="Vector Database">
+
+</p>
+
+---
+
+## ⚙️ Tools & DevOps
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+     width="55"
+     height="55"
+     alt="Git"
+     title="Git">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+     width="55"
+     height="55"
+     alt="GitHub"
+     title="GitHub">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+     width="55"
+     height="55"
+     alt="Docker"
+     title="Docker">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+     width="55"
+     height="55"
+     alt="Linux"
+     title="Linux">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
+     width="55"
+     height="55"
+     alt="Hugging Face"
+     title="Hugging Face">
+
 </p>
 
 ---
@@ -87,9 +225,7 @@ I enjoy turning ideas into working products by combining **AI + software enginee
 
 An AI-powered document question-answering system based on **Retrieval-Augmented Generation**.
 
-The project focuses on retrieving relevant information from documents and using an LLM to generate context-aware answers.
-
-### 🔥 Highlights
+### ✨ Highlights
 
 - 📄 Document ingestion
 - ✂️ Text chunking
@@ -102,11 +238,11 @@ The project focuses on retrieving relevant information from documents and using 
 - 🌐 Web interface
 - 🐳 Docker support
 
-**Core Technologies**
+### 🧰 Technologies
 
 `Python` `FastAPI` `React` `RAG` `LLM` `ChromaDB` `Docker`
 
-🔗 [**View Repository**](https://github.com/akhileshapjain2005-png/RAG-Powered-Document-Question-Answering-System)
+🔗 [View Repository](https://github.com/akhileshapjain2005-png/RAG-Powered-Document-Question-Answering-System)
 
 ---
 
@@ -114,7 +250,7 @@ The project focuses on retrieving relevant information from documents and using 
 
 An intelligent transportation application combining **machine learning, traffic prediction, route planning, mapping, and travel analysis**.
 
-### 🔥 Highlights
+### ✨ Highlights
 
 - 🚗 Traffic prediction
 - 🗺️ Interactive maps
@@ -133,11 +269,11 @@ An intelligent transportation application combining **machine learning, traffic 
 - NumPy
 - Scikit-learn
 
-**Core Technologies**
+### 🧰 Technologies
 
 `React` `Vite` `Flask` `Python` `Scikit-learn` `Leaflet` `Pandas` `NumPy`
 
-🔗 [**View Repository**](https://github.com/akhileshapjain2005-png/Traffic-Prediction-Route-Optimization)
+🔗 [View Repository](https://github.com/akhileshapjain2005-png/Traffic-Prediction-Route-Optimization)
 
 ---
 
@@ -147,11 +283,11 @@ An AI-powered project designed around **AI-assisted development and intelligent 
 
 The project explores how LLM-based systems can assist developers in transforming ideas and requirements into structured project concepts.
 
-**Core Technologies**
+### 🧰 Technologies
 
 `Python` `FastAPI` `AI` `LLMs` `Hugging Face` `Docker`
 
-🔗 [**View Repository**](https://github.com/akhileshapjain2005-png/hackforge-AI)
+🔗 [View Repository](https://github.com/akhileshapjain2005-png/hackforge-AI)
 
 ---
 
@@ -159,11 +295,11 @@ The project explores how LLM-based systems can assist developers in transforming
 
 A backend-focused project exploring API development and backend architecture for an Amazon-style application.
 
-**Core Technologies**
+### 🧰 Technologies
 
 `Python` `FastAPI` `Docker`
 
-🔗 [**View Repository**](https://github.com/akhileshapjain2005-png/Amazon-backend_docker)
+🔗 [View Repository](https://github.com/akhileshapjain2005-png/Amazon-backend_docker)
 
 ---
 
@@ -171,46 +307,50 @@ A backend-focused project exploring API development and backend architecture for
 
 A personal portfolio website showcasing development projects, technical interests, and work.
 
-🔗 [**View Repository**](https://github.com/akhileshapjain2005-png/Akhileshjain-portfolio)
+🔗 [View Repository](https://github.com/akhileshapjain2005-png/Akhileshjain-portfolio)
 
 ---
 
 # 🧩 AI Development Journey
 
-```text
-                 ┌─────────────────────┐
-                 │   Artificial        │
-                 │   Intelligence      │
-                 └──────────┬──────────┘
+<div align="center">
+
+<pre>
+                 ┌──────────────────────┐
+                 │   ARTIFICIAL         │
+                 │   INTELLIGENCE       │
+                 └──────────┬───────────┘
                             │
                             ▼
-                 ┌─────────────────────┐
-                 │ Machine Learning    │
-                 └──────────┬──────────┘
+                 ┌──────────────────────┐
+                 │  MACHINE LEARNING   │
+                 └──────────┬───────────┘
                             │
                             ▼
-                 ┌─────────────────────┐
-                 │ Generative AI       │
-                 └──────────┬──────────┘
+                 ┌──────────────────────┐
+                 │   GENERATIVE AI     │
+                 └──────────┬───────────┘
                             │
                             ▼
-                 ┌─────────────────────┐
-                 │ Large Language      │
-                 │ Models              │
-                 └──────────┬──────────┘
+                 ┌──────────────────────┐
+                 │ LARGE LANGUAGE       │
+                 │ MODELS               │
+                 └──────────┬───────────┘
                             │
                             ▼
-                 ┌─────────────────────┐
-                 │ RAG & Semantic      │
-                 │ Search              │
-                 └──────────┬──────────┘
+                 ┌──────────────────────┐
+                 │ RAG & SEMANTIC       │
+                 │ SEARCH               │
+                 └──────────┬───────────┘
                             │
                             ▼
-                 ┌─────────────────────┐
-                 │ AI-Powered          │
-                 │ Applications        │
-                 └─────────────────────┘
-```
+                 ┌──────────────────────┐
+                 │ AI-POWERED           │
+                 │ APPLICATIONS         │
+                 └──────────────────────┘
+</pre>
+
+</div>
 
 ---
 
@@ -218,9 +358,23 @@ A personal portfolio website showcasing development projects, technical interest
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akhileshapjain2005-png&show_icons=true&hide_border=true&theme=transparent&title_color=FFB86B&text_color=D9D5E9&icon_color=73E0D1&bg_color=100B24"/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=akhileshapjain2005-png&show_icons=true&hide_border=true&bg_color=0B1322&title_color=C8FF3D&text_color=D9E5F2&icon_color=73D7FF&include_all_commits=true&count_private=true"
+  alt="Akhilesh GitHub Statistics">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshapjain2005-png&layout=compact&hide_border=true&theme=transparent&title_color=FFB86B&text_color=D9D5E9&bg_color=100B24"/>
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshapjain2005-png&layout=compact&hide_border=true&bg_color=0B1322&title_color=C8FF3D&text_color=D9E5F2&langs_count=8"
+  alt="Akhilesh Most Used Languages">
 
 </div>
 
@@ -230,7 +384,9 @@ A personal portfolio website showcasing development projects, technical interest
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akhileshapjain2005-png&hide_border=true&background=100B24&ring=FF7A59&fire=FFB86B&currStreakLabel=73E0D1&sideLabels=D9D5E9&dates=AAA6C3&currStreakNum=FFB86B&sideNums=FFB86B"/>
+<img
+  src="https://streak-stats.demolab.com?user=akhileshapjain2005-png&hide_border=true&background=0B1322&ring=C8FF3D&fire=FFB347&currStreakLabel=73D7FF&sideLabels=D9E5F2&dates=8EA3BD&currStreakNum=C8FF3D&sideNums=73D7FF"
+  alt="Akhilesh GitHub Streak">
 
 </div>
 
@@ -240,7 +396,9 @@ A personal portfolio website showcasing development projects, technical interest
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akhileshapjain2005-png&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=akhileshapjain2005-png&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+  alt="Akhilesh GitHub Trophies">
 
 </div>
 
@@ -250,7 +408,9 @@ A personal portfolio website showcasing development projects, technical interest
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshapjain2005-png&bg_color=100B24&color=73E0D1&line=FF7A59&point=FFB86B&area_color=17113A&area=true&hide_border=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshapjain2005-png&bg_color=0B1322&color=73D7FF&line=C8FF3D&point=FFB347&area=true&hide_border=true"
+  alt="Akhilesh Contribution Graph">
 
 </div>
 
@@ -258,36 +418,111 @@ A personal portfolio website showcasing development projects, technical interest
 
 # 🎯 Current Focus
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   🤖 Generative AI                                   ║
-║   🧠 Large Language Models                           ║
-║   🔎 Retrieval-Augmented Generation                  ║
-║   🗄️ Vector Databases                                ║
-║   ⚡ AI Agents & Automation                          ║
-║   🌐 Full-Stack AI Applications                     ║
-║   🐳 Docker & Deployment                             ║
-║   📊 Machine Learning                               ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="250">
+
+### 🤖 Generative AI
+
+Building intelligent AI applications
+
+</td>
+
+<td align="center" width="250">
+
+### 🧠 Large Language Models
+
+Exploring modern LLM technologies
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+### 🔎 RAG Systems
+
+Retrieval and semantic search
+
+</td>
+
+<td align="center" width="250">
+
+### 🗄️ Vector Databases
+
+Embeddings and vector storage
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+### ⚡ AI Automation
+
+Intelligent workflows
+
+</td>
+
+<td align="center" width="250">
+
+### 🌐 Full-Stack AI
+
+AI-powered web applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="250">
+
+### 🐳 Docker & Deployment
+
+Containerization and deployment
+
+</td>
+
+<td align="center" width="250">
+
+### 📊 Machine Learning
+
+Data-driven solutions
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 # 💡 What I Like Building
 
-<table align="center">
-<tr>
-<td align="center" width="220">
+<div align="center">
 
-### 🤖 AI Apps
+<table>
+
+<tr>
+
+<td align="center" width="260">
+
+### 🤖 AI Applications
 
 LLM-powered intelligent applications
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="260">
 
 ### 🔎 RAG Systems
 
@@ -295,23 +530,31 @@ Document retrieval & Q&A
 
 </td>
 
-<td align="center" width="220">
+</tr>
 
-### 🌐 Web Apps
+<tr>
+
+<td align="center" width="260">
+
+### 🌐 Web Applications
 
 Modern full-stack applications
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="260">
 
 ### 📊 ML Systems
 
 Data-driven intelligent solutions
 
 </td>
+
 </tr>
+
 </table>
+
+</div>
 
 ---
 
@@ -321,7 +564,7 @@ Data-driven intelligent solutions
 
 ### **Learn → Build → Experiment → Improve → Repeat**
 
-> *"The best way to understand technology is to build with it."*
+> *The best way to understand technology is to build with it.*
 
 </div>
 
@@ -332,12 +575,12 @@ Data-driven intelligent solutions
 <div align="center">
 
 <a href="https://github.com/akhileshapjain2005-png">
-<img src="https://img.shields.io/badge/GitHub-100B24?style=for-the-badge&logo=github&logoColor=73E0D1"/>
+<img src="https://img.shields.io/badge/GitHub-0B1322?style=for-the-badge&logo=github&logoColor=C8FF3D" alt="GitHub">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
