@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="./profile-card.svg" alt="Akhilesh Jain - Computer Science | AI/ML | Generative AI" width="100%">
+<img
+src="./profile-card.svg"
+alt="Akhilesh Jain - Computer Science | AI/ML | Generative AI"
+width="100%"
+style="display:block;width:100%;height:auto;"
+>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=73D7FF&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI%2FML+Enthusiast;Generative+AI+Explorer;RAG+%26+LLM+Developer;Full-Stack+Developer;Building+Intelligent+Applications" alt="Typing Animation">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=akhileshapjain2005-png&label=PROFILE+VIEWS&color=79E34B&style=flat-square" alt="Profile Views">
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=73D7FF&center=true&vCenter=true&width=760&lines=Computer+Science+Student;AI%2FML+Enthusiast;Generative+AI+Explorer;RAG+%26+LLM+Developer;Full-Stack+Developer;Building+Intelligent+Applications"
+alt="Typing Animation"
+>
 
 </div>
 
@@ -47,9 +51,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="55"
+height="55"
+alt="Python">
 
 <br>
 
@@ -57,9 +65,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+width="55"
+height="55"
+alt="JavaScript">
 
 <br>
 
@@ -67,9 +79,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+width="55"
+height="55"
+alt="TypeScript">
 
 <br>
 
@@ -87,9 +103,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+width="55"
+height="55"
+alt="PyTorch">
 
 <br>
 
@@ -97,9 +117,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+width="55"
+height="55"
+alt="Scikit-learn">
 
 <br>
 
@@ -107,9 +131,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.simpleicons.org/openai" width="55" height="55" alt="OpenAI">
+<img
+src="https://cdn.simpleicons.org/openai"
+width="55"
+height="55"
+alt="OpenAI">
 
 <br>
 
@@ -117,9 +145,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.simpleicons.org/huggingface" width="55" height="55" alt="Hugging Face">
+<img
+src="https://cdn.simpleicons.org/huggingface"
+width="55"
+height="55"
+alt="Hugging Face">
 
 <br>
 
@@ -127,9 +159,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.simpleicons.org/langchain" width="55" height="55" alt="LangChain">
+<img
+src="https://cdn.simpleicons.org/langchain"
+width="55"
+height="55"
+alt="LangChain">
 
 <br>
 
@@ -140,8 +176,6 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 </tr>
 </table>
 
-**PyTorch • Scikit-learn • Generative AI • LLMs • RAG • LangChain**
-
 ---
 
 ## 🌐 Web & Backend
@@ -149,9 +183,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+width="55"
+height="55"
+alt="React">
 
 <br>
 
@@ -159,9 +197,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55" height="55" alt="Vite">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
+width="55"
+height="55"
+alt="Vite">
 
 <br>
 
@@ -169,9 +211,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+width="55"
+height="55"
+alt="FastAPI">
 
 <br>
 
@@ -179,9 +225,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+width="55"
+height="55"
+alt="Flask">
 
 <br>
 
@@ -189,9 +239,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+width="55"
+height="55"
+alt="Node.js">
 
 <br>
 
@@ -202,8 +256,6 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 </tr>
 </table>
 
-**React • Vite • FastAPI • Flask • Node.js • REST APIs**
-
 ---
 
 ## 🗄️ Databases & AI Storage
@@ -211,9 +263,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+width="55"
+height="55"
+alt="MongoDB">
 
 <br>
 
@@ -221,9 +277,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.simpleicons.org/postgresql" width="55" height="55" alt="PostgreSQL">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+width="55"
+height="55"
+alt="PostgreSQL">
 
 <br>
 
@@ -231,9 +291,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.simpleicons.org/chroma" width="55" height="55" alt="ChromaDB">
+<img
+src="https://cdn.simpleicons.org/chroma"
+width="55"
+height="55"
+alt="ChromaDB">
 
 <br>
 
@@ -244,8 +308,6 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 </tr>
 </table>
 
-**MongoDB • PostgreSQL • ChromaDB • Vector Databases • Semantic Search**
-
 ---
 
 ## ⚙️ Tools & DevOps
@@ -253,9 +315,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+width="55"
+height="55"
+alt="Git">
 
 <br>
 
@@ -263,9 +329,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+width="55"
+height="55"
+alt="GitHub">
 
 <br>
 
@@ -273,9 +343,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+width="55"
+height="55"
+alt="Docker">
 
 <br>
 
@@ -283,9 +357,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+width="55"
+height="55"
+alt="Linux">
 
 <br>
 
@@ -293,9 +371,13 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </td>
 
-<td align="center">
+<td align="center" width="140">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="55" height="55" alt="Hugging Face">
+<img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg"
+width="55"
+height="55"
+alt="Hugging Face">
 
 <br>
 
@@ -305,8 +387,6 @@ I enjoy turning ideas into working products by combining **AI + Software Enginee
 
 </tr>
 </table>
-
-**Git • GitHub • Docker • Linux • Hugging Face**
 
 ---
 
@@ -398,6 +478,10 @@ A backend-focused project exploring API development and backend architecture for
 
 A personal portfolio website showcasing development projects, technical interests, and work.
 
+### 🧰 Technologies
+
+`React` `Vite` `JavaScript` `CSS`
+
 🔗 [View Repository](https://github.com/akhileshapjain2005-png/Akhileshjain-portfolio)
 
 ---
@@ -419,7 +503,7 @@ A personal portfolio website showcasing development projects, technical interest
                             │
                             ▼
                  ┌──────────────────────┐
-                 │   GENERATIVE AI     │
+                 │   GENERATIVE AI      │
                  └──────────┬───────────┘
                             │
                             ▼
@@ -675,6 +759,8 @@ alt="Email">
 
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/akhilesh-jain-97b3a72a6">
 
 <img
@@ -682,6 +768,8 @@ src="https://img.shields.io/badge/LinkedIn-0B1322?style=for-the-badge&logo=linke
 alt="LinkedIn">
 
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/akhileshapjain2005-png">
 
